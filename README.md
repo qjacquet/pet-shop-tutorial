@@ -1,4 +1,4 @@
-# pet-shop-tutorial
+# pet-shop-tutorial-smart-contract
 Smart Contract first app with Truffle (https://www.trufflesuite.com/tutorials/pet-shop)
 
 ## Compile
